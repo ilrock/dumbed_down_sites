@@ -1,0 +1,21 @@
+{
+  "entry": [
+    "sites/demo/start.js"
+  ],
+  "ignorePatterns": [
+    "**/src/**",
+    "**/node_modules/**"
+  ],
+  "ignoreUnused": [
+    "@mailchimp/mailchimp_marketing",
+    "@sendgrid/mail",
+    "body-parser",
+    "dotenv",
+    "express",
+    "express-basic-auth",
+    "stripe",
+    "unimported",
+    "winston",
+    "xml-js"
+  ]
+}
