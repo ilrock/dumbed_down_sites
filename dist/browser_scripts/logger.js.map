@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../browser_scripts/logger.js"],
-  "sourcesContent": ["const log = () => {\n  console.log('Hello')\n}\n\nlog()"],
-  "mappings": ";;AAAA,MAAM,MAAM,MAAM;AAChB,YAAQ,IAAI;AAAA;AAGd;",
-  "names": []
-}

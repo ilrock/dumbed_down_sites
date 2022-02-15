@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../sites/demo/config.js", "../sites/demo/start.js"],
-  "sourcesContent": ["export default {\n  test: 'Hello there'\n}", "import config from './config'\n\nconsole.log('Config: ', config)"],
-  "mappings": ";AAAA,IAAO,iBAAQ;AAAA,EACb,MAAM;AAAA;;;ACCR,QAAQ,IAAI,YAAY;",
-  "names": []
-}
